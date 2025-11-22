@@ -17,7 +17,7 @@ const CATEGORY_MOCKUP = [
       "Administrativo",
       "Financeiro",
       "Didático",
-      "Equipamento Aluguel",
+      "Equipamento AlugueL",
       "Equipamento manutenção",
       "Hospedagens e Viagens",
       "Judicial",
